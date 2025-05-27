@@ -1,20 +1,9 @@
-# 💳 Credit Card Approval Prediction
-
-This project develops a machine learning model to predict whether a credit card application should be approved, based on demographic and financial data. Using the UCI Credit Approval dataset, it streamlines the application process by reducing manual reviews and improving decision consistency.
-
-## 🧾 Project Title
 **Credit Card Approval Prediction**
 
 ## 📌 Summary
 This project develops a machine learning model to predict whether a credit card application should be approved, based on demographic and financial data. Using the UCI Credit Approval dataset, it streamlines the application process by reducing manual reviews and improving decision consistency.
 
-## 🎯 Objectives
-
-- Automate credit approval decisions.
-- Ensure fairness and consistency across applications.
-- Increase processing efficiency.
-
-## 📊 Dataset
+## Dataset
 
 - **Source:** UCI ML Repository  
 - **Size:** 690 applications  
@@ -22,7 +11,7 @@ This project develops a machine learning model to predict whether a credit card 
 - **Target:** Approval (`+`) or Denial (`–`)  
 - **Missing Values:** Handled via imputation  
 
-## 🧠 Methodology
+## Methodology
 
 1. Load and explore data  
 2. Clean and preprocess (handle missing data, encode categorical features)  
